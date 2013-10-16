@@ -1,0 +1,1 @@
+A game where the player is able to compete in an iterated prisoner's dilemma against the computer for 30 turns. Unlike my first prisoner's dilemma game, where the computer acted at random, in this version the computer acts based on the 'Tit for Tat' strategy of equivalent retaliation.
